@@ -2,10 +2,11 @@
 
 I'm Denis Koco, a passionate Full-Stack Web Developer based in Vienna, Austria. With a focus on building modern, responsive, and user-centric web applications, I enjoy turning ideas into digital products using clean code and the latest technologies. I’m logical, detail-oriented, and thrive on solving real-world problems through code.
 
-🌱 Skilled in HTML5, CSS3, JavaScript, TypeScript, React, React Native, Next.js, Node.js, PostgreSQL, MongoDB, and GraphQL  
+🌱 Skilled in HTML5, CSS3, JavaScript, TypeScript, React, React Native, Next.js, Node.js and PostgreSQL  
 💬 Always open to collaborating on innovative full-stack or frontend projects — feel free to reach out!  
 📫 Get in touch via [LinkedIn](https://www.linkedin.com/in/denis-koco)  
 🧘‍♂️ When I’m not deep in development, I enjoy spending quality time with my family or staying active — whether that’s going for a run, playing football, or enjoying other outdoor activities. ⚽🏃‍♂️👨‍👩‍👧
+
 ✨ Motto: _“Everything is possible when you’re consistent and curious.”_
 
 ---
@@ -20,10 +21,7 @@ I'm Denis Koco, a passionate Full-Stack Web Developer based in Vienna, Austria. 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 </p>
 
 ---
