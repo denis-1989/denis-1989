@@ -43,7 +43,8 @@ I'm a passionate Full-Stack Web Developer based in Vienna, Austria. I specialize
 
 ### 🚀 Projects
 
-- ⚽ **MatchZone** – Live football app powered by public API  
+- ⚽ **MatchZone** – Live football app powered by public API
+- 🛍️ **Ecommerce Store** – Full-stack luxury watch e-commerce store built with Next.js, PostgreSQL, Playwright & Fly.io    
 - 🎨 **Meme Generator** – Create and edit memes with React  
 - 📝 **Guest List** – Full-stack guest management system  
 - 🎯 **Color Generator** – Node & React-based color generator tools  
